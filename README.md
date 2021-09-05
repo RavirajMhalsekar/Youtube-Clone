@@ -1,7 +1,7 @@
 
 # YouTube Clone 
 
-A font-end project for which the design is inspired from YouTube. This webiste is made fully responsive i.e. it will adjust accourding to the users screen size.
+A font end project for which the design is inspired from YouTube. This website is made fully responsive i.e. it will adjust according to the user's screen size.
 
 
 ## Screenshots
