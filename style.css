@@ -346,6 +346,9 @@ nav {
   .sidebar {
     display: none;
   }
+  .container{
+    padding-right: 6%;
+  }
   .container .large-container {
     padding-left: 5%;
     padding-right: 5%;
